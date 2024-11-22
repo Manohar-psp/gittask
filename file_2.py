@@ -1,0 +1,2 @@
+print('Somanath')
+print('Vishnu')
