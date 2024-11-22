@@ -6,3 +6,4 @@ c=a**b
 d = a+ b
 print('a**b=',c)
 print(d)
+print(d)
