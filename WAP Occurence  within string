@@ -1,0 +1,5 @@
+stry = "Automation testing find occurence"
+s= {}
+for ch in stry:
+    s[ch] = s.get(ch,0)+1
+print(s)
